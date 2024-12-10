@@ -1,4 +1,4 @@
-# getting started with JavaScript
+# Getting started with JavaScript
 
 >**Where did JavaScript originate from?**
 - Javascript didn't come up through the ivy leagues with careful consideration. Instead, It came out of necessity into the internet. So, It has a lot of good part and some not so good parts as well.
