@@ -218,3 +218,5 @@ console.log(a, b, c);
 - ZERO-FILL RIGHT SHIFT ( `>>>` )
 
 - Comma operator
+
+  > There are some other basics operators such as logical, comparative and so on.
