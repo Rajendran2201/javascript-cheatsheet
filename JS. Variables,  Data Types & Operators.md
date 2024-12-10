@@ -96,7 +96,7 @@ admin = name;
 alert(admin);
 ```
 
-> More to know: [[Hoisting]]
+> More to know: [Hoisting](https://github.com/Rajendran2201/javascript-cheatsheet/blob/main/Hoisting.md)
 
 ---
 
