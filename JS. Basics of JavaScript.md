@@ -53,7 +53,7 @@ This is possible by inserting `<script defer src="js-file.js"></script>`.
 
 ![](https://i.imgur.com/iBwEbjF.png)
 
-### Where did JavaScript originate from?
+### Then, where did JavaScript actually originate from?
 
 - The roots of javascript comes from Netscape, the first browser company. They created a scripting language that would allow anyone to add scripts to their pages and named it as Livescript in 1995.
 - During the same time, Sun Microsystems introduced Java and it became incredibly popular. So to capitalize on that success, Livescript was renamed as Javascript.
